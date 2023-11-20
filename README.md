@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Engineering undergraduates
+I'm a Computer Engineering undergraduate
 
 
 ## 🌐 Socials:
