@@ -3,13 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rbuwaeng&label=Profile%20views&color=0e75b6&style=flat" alt="rbuwaeng" /> </p>
 
+<div align="center">
+
 - 🌱 I’m currently learning **Game development and flutter**
-
 - 📝 I regularly write articles on [https://buwathoughts.blogspot.com/](https://buwathoughts.blogspot.com/)
-
 - 💬 Ask me about **Game development and flutter**
+- 📫 How to reach me: **ribuwaneka@gmail.com**
 
-- 📫 How to reach me **ribuwaneka@gmail.com**
+</div>
 
 <h3 align="center">🛠️ Contributions</h3>
 <div align="center">
