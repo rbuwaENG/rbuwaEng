@@ -28,4 +28,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🐍 Snake contributions
-![github-contribution-grid-snake](https://github.com/rbuwaENG/rbuwaEng/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/rbuwaENG/rbuwaEng/blob/output/github-contribution-grid-snake-dark.svg)
