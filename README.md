@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **ribuwaneka@gmail.com**
 
+<h3 align="center">Contributions</h3>
+<div align="center">
+  <img src="https://github.com/rbuwaENG/rbuwaEng/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" />
+</div>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ravindu-buwaneka-42913a1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-buwaneka-42913a1a3" height="30" width="40" /></a>
@@ -32,8 +37,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </div>
 
-<h3 align="center">🐍 Snake contributions</h3>
-<div align="center">
-  <img src="https://github.com/rbuwaENG/rbuwaEng/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" />
-</div>
+
 
