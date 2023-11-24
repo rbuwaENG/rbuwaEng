@@ -5,10 +5,10 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Game development and flutter**
-- 📝 I regularly write articles on [https://buwathoughts.blogspot.com/](https://buwathoughts.blogspot.com/)
-- 💬 Ask me about **Game development and flutter**
-- 📫 How to reach me: **ribuwaneka@gmail.com**
+ 🌱 I’m currently learning **Game development and flutter**
+ 📝 I regularly write articles on [https://buwathoughts.blogspot.com/](https://buwathoughts.blogspot.com/)
+ 💬 Ask me about **Game development and flutter**
+ 📫 How to reach me: **ribuwaneka@gmail.com**
 
 </div>
 
