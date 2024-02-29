@@ -29,7 +29,6 @@
 <h3 align="center">⚡ Github Stat</h3>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbuwaEng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rbuwaEng&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbuwaEng&theme=dark&hide_border=false" alt="GitHub Streak" />
  
 </div>
