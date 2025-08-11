@@ -5,7 +5,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Game development and flutter**<br>
+
  📝 I regularly write articles on [https://buwathoughts.blogspot.com/](https://buwathoughts.blogspot.com/)<br>
  📫 How to reach me: **ribuwaneka@gmail.com**<br>
 
